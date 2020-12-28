@@ -15,6 +15,25 @@ When strating a new project, Brooks will look through the list and consider the 
 - What Brooks is feeling like
 - What kind of projects he's worked on recently
 
+## Goal for each project
+
+The goal for these projects is to be a combination of the following
+
+- Fun to watch
+- Can learn by following along
+- Is fun to make
+
+To that end, each idea will track the following to make sure we are hitting the goals
+
+### Metrics
+
+- Click-through rate on YouTube
+- Watch time on YouTube
+- Follows on Twitch
+- Subscribers on YouTube
+
+For each project we will decide which metrics we are targeting, and what success looks like. Then we will track them.
+
 ## Types of Ideas
 
 Brooks will work on the following types of ideas.
